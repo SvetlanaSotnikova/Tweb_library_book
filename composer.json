@@ -1,0 +1,19 @@
+{
+    "name": "sotni/localhost",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sotni\\Localhost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Svetik",
+            "email": "sotnikovas337@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.8",
+        "league/oauth2-google": "^4.0"
+    }
+}
